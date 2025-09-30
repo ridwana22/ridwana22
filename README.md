@@ -1,72 +1,73 @@
-```markdown
-# Hi there, I'm Ridwana Septian Nurardian 👋  
-![Ridwana](img/github-header-banner.png)
+<div align="center">
+  <img src="img\github-header-banner.png"  />
+</div>
 
-🎓 Mahasiswa Informatika di **Universitas Bina Sarana Informatika (UBSI)**  
-💡 Passionate about **Data Science | Machine Learning | Artificial Intelligence**  
-🌱 Currently learning **Python, PostgreSQL, Streamlit, TensorFlow, Flask**  
-📊 Love working on **Data Analysis, Visualization, and Predictive Modeling**  
-🌍 Open to collaboration on **AI/Data Science projects**  
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/ridwanaseptian/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/ridwana.septian/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-## 🌐 Connect with Me
-![https://www.linkedin.com/in/ridwanaseptian](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://instagram.com/ridwana.septian](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+###
 
----
+<h1 align="center">Hello World. I'm Ridwana Septian Nurardian 👋</h1>
 
-## 🛠️ Tech Stack & Tools
+###
 
-**Languages & Databases**  
-[![My Skills](https://skillicons.dev/icons?i=html,css, html python, postgres, mongodb&perline=3 )](https://skillicons.dev)
-<!-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
+<h3 align="left">👩‍💻  About Me</h3>
 
-**Frameworks & Libraries**  
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white">  
-<img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white">  
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">  
+###
 
----
+<p align="left">🎓 Mahasiswa Informatika di Universitas Bina Sarana Informatika (UBSI)  <br>💡 Passionate about Data Science | Machine Learning | Artificial Intelligence | Data Analysis<br>🌱 Currently learning Python, PostgreSQL, Streamlit, TensorFlow, Flask<br>📊 Love working on Data Analysis, Visualization, and Predictive Modeling<br>🌍 Open to collaboration on AI/Data Science projects</p>
 
-## 🚀 Featured Projects
+###
 
-- 🏅 **Gold Price Prediction (Time Series)**  
-  Predicting gold prices using **LSTM, ARIMA, GRU, and XGBoost** models.  
+<h3 align="left">🛠 Language and tools</h3>
 
-- 📈 **Bitcoin Sentiment Analysis**  
-  Analyzing the impact of the Iran–Israel conflict on Bitcoin volatility using **Twitter/X API**.  
+###
 
-- 🗺️ **Land Price Prediction (IDW Method)**  
-  Web application built with **Streamlit** to visualize and predict land prices.  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
----
+###
 
-## 📊 GitHub Stats
+<div align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
+</div>
 
-![Ridwana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridwanaseptian&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanaseptian&layout=compact&theme=radical)  
+###
 
----
+<div align="left">
+</div>
 
-## 🌍 Bahasa Indonesia Version
+###
 
-Halo 👋, saya **Ridwana Septian Nurardian**  
-Saya seorang mahasiswa **Informatika UBSI** yang bersemangat dalam dunia **Data Science, Machine Learning, dan Artificial Intelligence**.  
-Saat ini saya mendalami **Python, PostgreSQL, dan Streamlit** serta mengerjakan berbagai proyek analisis data.  
+<h3 align="left"> Let's play with me.</h3>
 
-Mari terhubung di LinkedIn saya dan berdiskusi tentang data, AI, atau kolaborasi proyek 🚀  
+###
 
----
-✨ *"Turning data into insight, and insight into impact."* ✨
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridwana22/ridwana22/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridwana22/ridwana22/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ridwana22/ridwana22/output/pacman-contribution-graph.svg">
+</picture>
+
+###
